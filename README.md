@@ -4,8 +4,8 @@
 - training(3440)
 
 ## Flowers
- | daisy  | dandelion  |  rose | selma bouvier  |  sunflower |  tulip |
-|---|---|---|---|---|---|
+ | daisy  | dandelion  |  rose |  sunflower |  tulip |
+|---|---|---|---|---|
 | ![](./image/Daisy.png)  | ![](./image/Dandelion.png)  |  ![](./image/rose.png) |  ![](./image/Sunflower.png) | ![](./image/Tulip.png) |
 
 [<img src="./image/demo.png" width="250px">](https://youtu.be/0X3PvVKXD7c)
